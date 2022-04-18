@@ -24,7 +24,7 @@ rxjs
 クローンをしてきたリポジトリのメインブランチにはアカウントを作成する機能が書かれています
 
 ``` terminal
-ts-node helloworld.ts
+npx ts-node helloworld.ts
 ```
 
 を実行すると
