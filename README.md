@@ -39,7 +39,7 @@ Your new account address is: TA5A3E-RRYUUO-4TM7D6-I3SWQC-Y3GR2D-PKWVRX-RZQ and i
 基本的にこの
 
 ``` terminal
-ts-node ファイル名
+npx ts-node ファイル名
 ```
 
 でそれぞれの機能を確認していきながら学習していくことになります。
