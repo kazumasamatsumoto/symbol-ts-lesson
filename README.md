@@ -7,6 +7,7 @@ symbol-sdkを学習するためだけのリポジトリ
 なのでこのプロジェクトをクローンしてから操作できるようにしたいなと。
 
 ``` terminal
+git clone https://github.com/kazumasamatsumoto/symbol-ts-lesson.git
 npm install
 ```
 
